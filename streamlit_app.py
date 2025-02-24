@@ -9,7 +9,7 @@ import random
 
 import tensorflow.keras.applications as apps
 
-st.title('Pair demo: IKEA furniture collection recommender')
+st.title('Recyclez')
 st.markdown(
 """
 Pair is an image-based product collection recommender that pair user-preferred products
